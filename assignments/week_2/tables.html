@@ -4,71 +4,64 @@
 <head>
   <meta charset="utf-8">
 
-  <title>Example HTML Table</title>
+  <title>PRACTICE HTML Table</title>
 
   <style>
   /* CSS goes between the style tags. */
   table {
-      border: solid 5px black;
-      padding: 10px;
-      background-color:bisque;
-      border-radius: 10px;
+
+
+      border: solid 5px rgb(58, 12, 50);margin-left:auto;margin-right:auto;
+      padding: 15px;
+      background-color:rgb(230, 177, 109);
+      border-radius: 20px;
   }
 
   td {
-      border: dashed 1px grey;
-      background-color: lightgrey;
-      color: fuchsia;
+      border: dashed 1px rgb(223, 86, 86);
+      background-color: rgb(245, 198, 198);
+      color:  purple;
       padding: 5px;
-      margin: 5px;
+      margin: 6px;
   }
   </style>
 
 </head>
 
 <body>
-
-    <!--  Tables Example-
-        <table> = contains the whole table
-        <tr> = represents a table row
-        <td> = represents a(n) table data
-        -->
-
-    <!-- 
-        HOMEWORK:
-        Learn and use the following HTML elements:
-        <thead>
-        <tbody>
-        <th>
-     -->
     
-
     <table>
+        <thead>
         <tr>
-            <td>Name</td>
-            <td>Last Name</td>
-            <td>Email</td>
+            <th>Movies</th>
+            <th>Genre</th>
+            <th>Year</th>
+        </tr>
+        </thead>
+        
+        <tbody>
+        <tr>
+            <td>The English Patient</td>
+            <td>Drama, Romance, War </td>
+            <td>1996</td>
         </tr>
         <tr>
-            <td>Joe</td>
-            <td>Yellow</td>
-            <td>joe@gmail.com</td>
+            <td>Sixth Sense</td>
+            <td>Drama, Mystery, Thriller</td>
+            <td>1999</td>
         </tr>
         <tr>
-            <td>Samantha</td>
-            <td>Battery</td>
-            <td>samantha@gmail.com</td>
+            <td>Parasite</td>
+            <td>Drama, Thriller, Comedy</td>
+            <td>2019</td>
         </tr>
         <tr>
-            <td>William</td>
-            <td>Box</td>
-            <td>william@gmail.com</td>
+            <td>The Godfather II</td>
+            <td>Crime, Drama</td>
+            <td>1972</td>
         </tr>
-        <tr>
-            <td>Rachel</td>
-            <td>Smith</td>
-            <td>rachel@gmail.com</td>
-        </tr>
+        </tbody>
+
     </table>
 	
   <script>
