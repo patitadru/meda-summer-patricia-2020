@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family-Josefin+slab:wght@300;400&family=Montserrat&display=swap');
+
+#page-title {
+    font-family: "Josefin slab";
+    font-weight: 300;
+    font-size: 40px;
+}
+p {
+    font-family: "Monserrat";
+    font-size: 12px;
+}
