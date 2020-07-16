@@ -2,7 +2,7 @@ Design
 
 Colors 
 cover body 
-header
+header  #D8CFDO
 link text     
 background colors #F2F1EF", #B1A6A4
 
@@ -17,6 +17,8 @@ Font 24px
 P 
 Font 15px
 
+
+------------
 
 Content 
 
