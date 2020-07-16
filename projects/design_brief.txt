@@ -1,0 +1,26 @@
+Design 
+
+Colors 
+cover body 
+header
+link text     
+background colors #F2F1EF", #B1A6A4
+
+
+Font
+font-family: KohinoorLatin-Light,sans-serif;
+color: #1a1a1a;
+
+H3 
+Font 24px
+
+P 
+Font 15px
+
+
+Content 
+
+
+Favorite Perfumes
+
+COLLECTION ABOUT CONTACT 
