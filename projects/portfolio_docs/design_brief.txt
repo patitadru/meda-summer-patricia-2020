@@ -6,6 +6,7 @@ header  #D8CFDO
 link text     
 background colors #F2F1EF", #B1A6A4
 
+Page background want a marble look like 
 
 Font
 font-family: KohinoorLatin-Light,sans-serif;
