@@ -1,22 +1,22 @@
 
+Patita Idru
+Photography
 
-Colors 
-cover body 
-header  #D8CFDO
-link text     
-background colors #F2F1EF", #B1A6A4
 
-Page background want a marble look like 
+Colors I want to use for the webpage are marmol stone looking like. 
+I feel like subtle whites and greys are stylish and make pics and visuals to stand out. I found two good background colors #F2F1EF", #B1A6A4.
 
-Font
-font-family: KohinoorLatin-Light,sans-serif;
-color: #1a1a1a;
+Header:  #D8CFDO
 
-H3 
-Font 24px
+text:    I want fonts long elongated but not bolded. Something like this font style, sort of grey-black color.
 
-P 
-Font 15px
+font-family: KohinoorLatin-Light,sans-serif
+color: #1a1a1a
+
+A good pixel size for H2 and H3 is probably around 24px
+For paragraphs I am thinking I could use 15px.
+
+
 
 ------------
 
@@ -25,4 +25,21 @@ Portfolios I like :
 
 https://www.femmefatale.paris/en/project/easy-tiger
 
+It is a French agency 
+
+Header "the New Seventh art label"
+Content or Main: Has a display of their movies and award projects they had 
+Footer is the last part that displays movies, however it is hard to locate the footer int his website.
+
+Images are big and outstanding. 
+I like the dark background color and the fonts are white. They also have white background and dark letters. They use the font  Images are in color and they stand out. I particularly like one of the fonts "SolaneLthin"
+I like that in the content they have short video that plays continuously and allows you to sneak peek into the movies without clicking in each one of them.
+
+
 https://toughslatedesign.com/
+
+It is a peach feminine website that seems romantic and elegant. 
+
+I like that the footer in this one is very obvious and easy to find . Even less charged and simple than the first portfolio.
+I think that the websites and contents are easier to find but still retains a visual and interactive experience.
+
