@@ -1,4 +1,4 @@
-Design 
+
 
 Colors 
 cover body 
@@ -18,12 +18,11 @@ Font 24px
 P 
 Font 15px
 
-
 ------------
 
-Content 
 
+Portfolios I like : 
 
-Favorite Perfumes
+https://www.femmefatale.paris/en/project/easy-tiger
 
-COLLECTION ABOUT CONTACT 
+https://toughslatedesign.com/
