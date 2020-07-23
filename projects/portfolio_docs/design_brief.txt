@@ -4,57 +4,58 @@ Photography
 
 
 Colors I want to use for the webpage are marmol stone looking like. 
-I feel like subtle whites and greys are stylish and make pics and visuals to stand out. I found two good background colors #F2F1EF", #B1A6A4.
+I feel like subtle whites and greys are stylish and make pics and visuals to stand out. 
+I found two good background colors #F2F1EF", #B1A6A4.
 
 Header:  #D8CFDO
 
-text:    I want fonts long elongated but not bolded. Something like this font style, sort of grey-black color.
+Text:    I want fonts long elongated but not bolded. Something like this font style, sort of grey-black color.
 
-font-family: KohinoorLatin-Light,sans-serif
+Font-family: KohinoorLatin-Light,sans-serif
 color: #1a1a1a
 
 A good pixel size for H2 and H3 is probably around 24px
 For paragraphs I am thinking I could use 15px.
 
-
-
 ------------
-My portfolio content
+My portfolio
 
-Navigaton in the middle 
+HOMEPAGE PATRICIA DRU
+         PHOTOGRAPHY 
 
-My name 
-Portraits will have samples of portraits
-Products 
-Landscapes 
-Bio 
-Bookings
-Clients 
+PORTFOLIO
+
+Families - capture the special moment that will pass from generations to generations to come
+
+Individual - make a pose and let me enhance your beauty. Headshots, modeling portfolio and more. 
+ 
+Landscapes - You need a specific beautiful landscape for your business, living room or more. Tell me where is it and we can glorify it to eternity.
 
 
-About me:
+
+ABOUT ME:
+
 When I was little I was fascinated by polaroids. Longed to have a dark room to process my own photos. I used to take pictures of my dolls and my family.
 Many decades later, it is amazing to see the technology progress and how taking pictures has a more meaningful importance in our lives.
 With a passion for beauty and balance, I will be sure your photographs are unforgettable. Let's aim to represent your vision, enhance your beauty and capture that special moment you never want to forget.  
 
-Contact us: 
-Name:
-E-mail:
-Question/Comment
-Send
+To download my resume--> click here 
+
+Picture 
 
 
-Clients:
-Family (JOhn and Carla)
-Landcaspe (Full mom/beach 
+
+CONTACT US:
+
+Questions/Comments or to schedule an appointment
+Send us an email to : patitadru@gmail.com
+
 
 
 Media:
 Facebook, Twitter, Instagram
 
-Bookings:
-See my calendar and select your desired date. Please wait for an email confirmation within 2 days. 
-Cancelations can be done directly in the calendar, follow the reservation number created.
+
 
 -------------------------------
 
